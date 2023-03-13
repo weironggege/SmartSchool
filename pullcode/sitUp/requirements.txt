@@ -1,0 +1,5 @@
+mediapipe~=0.8.10.1
+matplotlib~=3.5.3
+tqdm~=4.64.1
+numpy~=1.21.6
+pillow~=9.2.0
